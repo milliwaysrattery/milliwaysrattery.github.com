@@ -1,0 +1,142 @@
+/* Pink = #CD29B2 */
+
+/* Body defaults */
+body
+{
+margin: 0px;
+padding: 0px;
+background-color: black;
+background: url(star-sm.jpg) top left repeat;
+color: white;
+font-family: 'Trebuchet MS', Tahoma, sans-serif;
+}
+
+/* Div wrapper to center content on browser window */
+#wrap
+{
+width: 700px;
+margin: 0px auto;
+padding: 0px;
+background-color: black;
+background: rgb(0, 0, 0); /* The Fallback */
+background: rgba(0, 0, 0, 0.92);
+}
+
+/* Header */
+header
+{
+overflow: auto
+}
+
+#menubar
+{
+text-align: right;
+width: 215px;
+float: left;
+padding-left: 5px;
+}
+
+/* Menu bar formatting and layout */
+#menubar ul
+{
+margin: 0px;
+padding: 0px;
+padding-top: 15px;
+padding-right: 15px;
+list-style-type: none;
+list-style-image: none;
+}
+
+#menubar li
+{
+display: list-item;
+list-style: none
+}
+
+#menubar li a
+{
+display: block;
+padding: 3px 20px;
+color: white;
+text-decoration: none;
+font-size: 1.8em;
+margin: 5px auto;
+}
+
+#menubar li a:hover
+{
+background: #CD29B2;
+color: #FFF;
+}
+
+#current
+{
+background: #CD29B2;
+color: #CD29B2;
+}
+
+/* Main text */
+#mt
+{
+padding: 1px 20px;
+margin: 0px 15px;
+border-left-style: solid;
+border-width: 7px;
+border-color: #CD29B2;
+text-align: justify;
+}
+
+/* Footer */
+footer
+{
+font-size: 0.8em;
+text-align: center;
+}
+
+/* Classes */
+.logo
+{
+float: left;
+width: 450px;
+height: 287px;
+margin-left: 15px;
+padding-top: 15px;
+}
+
+.lineround
+{
+border: 7px solid #CD29B2;
+border-left-width: 0;
+-webkit-border-radius: 0 30px 30px 0;
+-moz-border-radius: 0 30px 30px 0;
+-o-border-radius: 0 30px 30px 0;
+-ms-border-radius: 0 30px 30px 0;
+border-radius: 0 30px 30px 0;
+margin: 0px 15px;
+}
+
+h1
+{
+padding-left: 25px;
+}
+
+h2
+{
+font-size: 100%;
+}
+
+.profile
+{
+margin: 5px 60px;
+width: 500px;
+height: 375px;
+position: relative;
+}
+
+h3
+{
+background: rgb(0, 0, 0); /* The Fallback */
+background: rgba(0, 0, 0, 0.92);
+position: relative;
+top: 50px;
+}
