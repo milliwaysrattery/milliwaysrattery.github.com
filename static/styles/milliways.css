@@ -124,23 +124,25 @@ h1
 padding-left: 25px;
 }
 
-h2
-{
-font-size: 100%;
-}
-
 .profile
 {
-margin: 5px 60px;
+display: block;
+margin: 0px auto;
 width: 500px;
 height: 375px;
-position: relative;
 }
 
-h3
+.profileportrait
 {
-background: rgb(0, 0, 0); /* The Fallback */
-background: rgba(0, 0, 0, 0.92);
-position: relative;
-top: 50px;
+display: block;
+margin: 0px auto;
+width: 375px;
+height: 500px;
+}
+
+.sections
+{
+border-style: solid;
+border-color: #CD29B2;
+border-width: 0px 0px 3px 0px;
 }
