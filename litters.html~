@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>Milliways Rattery - Shows</title>
+	<title>Milliways Rattery - Links</title>
 	<meta name="keywords" content="rats, rat, breeding, breeders, breeder, southampton, rattery, hampshire, united kingdom, england, great britain"/>
 
 	<link rel="stylesheet" href="static/style/milliways.css" type="text/css" />
@@ -21,38 +21,26 @@
 		<div id="menubar">
 			<ul>
 			<li><a href="index.html">Home</a></li>
-			<li><a href="about.html">About</a></li>
+			<li><a href="news.html">News</a></li>
 			<li><a href="litters.html">Planned Litters</a></li>
 			<li><a href="rats.html">Rats</a></li>
 			<li><a href="ratcare.html">Rat Care</a></li>
-			<li><a href="shows.html" id="current">Shows</a></li>
-			<li><a href="links.html">Links</a></li>
+			<li><a href="shows.html">Shows</a></li>
+			<li><a href="links.html" id="current">Links</a></li>
 			</ul>
 		</div>
 	</header>
 
 	<!-- Header -->
-	<h1 class="lineround">Shows</h1>
+	<h1 class="lineround">Planned Litters</h1>
 
 	<!-- Text -->
 	<div id="mt">
-<p>I am planning on attending the following shows:</p>
+<p>We currently have no plans to breed until early summer 2012. This is due to fact that the does that we wish to breed with not be old enough until then.</p>
 
-<div id="breedinglist">
-<ul>
-<li>Eltham Show - 18th February 2012</li>
-<li>Boscombe Down Show - 25th February 2012</li> 
-<li>Clevedon Show - 10th March 2012</li>
-<li>Tempsford Show - 24th March 2012</li>
-<li>Spring Cup Show - 14th April 2012</li>
-<li>Cardiff Show - 05th May 2012</li>
-<li>Meldreth Show - 26th May 2012</li>
-</ul>
-
-<p>The NFRS show calendar can be found <a href="http://www.nfrs.org/shows.html">here</a>.</p>
-
+<p>I will add more information when we have decided, so watch this space!</p>
 	</div>
-</div>
+
 	<!-- Bottom bar -->
 	<footer class="lineround">
 		<p>&copy; Copyright Milliways Rattery 2011-2012.</p>

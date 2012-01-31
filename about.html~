@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Milliways Rattery - News</title>
+	<meta name="keywords" content="rats, rat, breeding, breeders, breeder, southampton, rattery, hampshire, united kingdom, england, great britain"/>
+
+	<link rel="stylesheet" href="static/style/milliways.css" type="text/css" />
+</head>
+
+<body>
+
+<!-- Center wrapper start -->
+<div id="wrap">
+
+	<!-- Logo -->
+	<header>
+	<img class="logo" src="static/img/milliways.png" alt="Milliways Rattery" />
+
+	<!-- Menu -->
+		<div id="menubar">
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="about.html">About</a></li>
+			<li><a href="litters.html">Planned Litters</a></li>
+			<li><a href="rats.html">Rats</a></li>
+			<li><a href="ratcare.html">Rat Care</a></li>
+			<li><a href="shows.html">Shows</a></li>
+			<li><a href="links.html" id="current">Links</a></li>
+			</ul>
+		</div>
+	</header>
+
+	<!-- Header -->
+	<h1 class="lineround">About</h1>
+
+	<!-- Text -->
+	<div id="mt">
+<h3>Breeding Aims</h3>
+<p>I aim to breed happy, healthy rats that will make wonderful pets for many people. The wellbeing of my rats comes first, and I will only breed from rats I consider to have the type and personality that I wish to encourage. I will also only breed from rats from reputable breeders (whose ethics I agree with) and whose pedigree is known.</p>
+
+<h3>Caledonian Rattery</h3>
+<p>Lois at Caledonian rattery is the main reason behind me getting into breeding. The majority of my rats have been from her, and they are the most wonderful rats – gorgeous, and also with the most amazing, friendly personalities! She gave me Bloo (Caledonian Blooregard Q. Kazoo), who has gained both NFRS Show, and Platinum championships, and sired a litter for her. He is a Russian blue point siamese, the inspiration, and the foundation rat, for me to start this rattery.</p>
+
+<h3>Homing</h3>
+<p>I will ask all potential kitten homes to fill out an application form, and if you home from me, to sign a contract. All kittens must be homed in at least pairs, unless there will be same aged company, and will not be ready until 6 weeks old at the earliest. Some kittens will take longer than this to mature, and I will not home them until I believe they are ready. If, in the event of you not being able to care for the rats any more, they must come back to me as first refusal.</p>
+
+<h3>Varieties</h3>
+<p>Below are examples of the varieties of rats which I will be breeding for:</p>
+<div id="breedinglist">
+<ul>
+<li>Russian blue point Siamese (black eyed)</li>
+<li>Russian blue point Siamese (red eyed)</li>
+<li>Seal point Siamese (black eyed)</li>
+<li>Seal point Siamese (red eyed)</li>
+<li>Russian Blue</li>
+<li>Black (silvered)</li>
+</div>
+	</div>
+
+	<!-- Bottom bar -->
+	<footer class="lineround">
+		<p>&copy; Copyright Milliways Rattery 2011-2012.</p>
+	</footer>
+</div>
+
+</body>
+</html>

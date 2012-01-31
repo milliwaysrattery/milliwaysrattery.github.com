@@ -14,7 +14,7 @@ font-family: 'Trebuchet MS', Tahoma, sans-serif;
 /* Div wrapper to center content on browser window */
 #wrap
 {
-width: 700px;
+width: 710px;
 margin: 0px auto;
 padding: 0px;
 background-color: black;
@@ -28,24 +28,21 @@ header
 overflow: auto
 }
 
+/* Menu bar formatting and layout */
 #menubar
 {
 text-align: right;
-width: 215px;
+width: 235px;
 float: left;
 padding-left: 5px;
 }
 
-/* Menu bar formatting and layout */
 #menubar ul
 {
 margin: 0px;
 padding: 0px;
-<<<<<<< HEAD
 padding-top: 15px;
-=======
 padding-top: 9px;
->>>>>>> 56dcc1fe048aee6af5b16eb065661ee6042a1e05
 padding-right: 15px;
 list-style-type: none;
 list-style-image: none;
@@ -63,7 +60,7 @@ display: block;
 padding: 3px 20px;
 color: white;
 text-decoration: none;
-font-size: 1.8em;
+font-size: 1.5em;
 margin: 5px auto;
 }
 
@@ -124,8 +121,13 @@ h1
 padding-left: 25px;
 }
 
-.profile
+p
 {
+font-size: 90%;
+}
+
+.profile
+{g
 display: block;
 margin: 0px auto;
 width: 500px;
@@ -144,5 +146,11 @@ height: 500px;
 {
 border-style: solid;
 border-color: #CD29B2;
-border-width: 0px 0px 7px 0px;
+border-width: 0px 0px 3px 0px;
+}
+
+/* Breeding list */
+#breedinglist
+{
+font-size: 90%;
 }

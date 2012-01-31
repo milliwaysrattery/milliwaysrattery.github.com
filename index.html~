@@ -26,7 +26,7 @@
 			<li><a href="rats.html">Rats</a></li>
 			<li><a href="ratcare.html">Rat Care</a></li>
 			<li><a href="shows.html">Shows</a></li>
-			<li><a href="links.html">Links</a></li>
+			<li><a href="links.html" id="current">Links</a></li>
 			</ul>
 		</div>
 	</header>
