@@ -6,7 +6,7 @@ body
 margin: 0px;
 padding: 0px;
 background-color: black;
-background: url(/static/img/star-sm.jpg) top left repeat;
+background: url(/static/img/star-sm.jpg) top left repeat fixed;
 color: white;
 font-family: 'Trebuchet MS', Tahoma, sans-serif;
 }
