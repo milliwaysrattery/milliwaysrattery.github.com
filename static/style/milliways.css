@@ -155,7 +155,7 @@ border-width: 0px 0px 3px 0px;
 font-size: 90%;
 }
 
-a:link {color:#6666FF;}      /* unvisited link */
+a:link {color:#00FFFF;}      /* unvisited link */
 a:visited {color:#CD29B2;}  /* visited link */
 a:hover {color:#CD29B2;}  /* mouse over link */
 a:active {color:#0000FF;}  /* selected link */
