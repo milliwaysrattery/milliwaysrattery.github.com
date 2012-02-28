@@ -142,6 +142,14 @@ width: 375px;
 height: 500px;
 }
 
+.profilecol
+{
+display: block;
+margin: 0px auto;
+width: 600px;
+height: 184px;
+}
+
 .sections
 {
 border-style: solid;
