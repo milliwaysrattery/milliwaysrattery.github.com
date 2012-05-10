@@ -157,6 +157,24 @@ border-color: #CD29B2;
 border-width: 0px 0px 3px 0px;
 }
 
+.litterleft
+{
+display: block;
+margin: 0px;
+width: 250px;
+height: 188px;
+float: left;
+}
+
+.litterright
+{
+display: block;
+margin: 0px;
+width: 250px;
+height: 188px;
+float: right;
+}
+
 /* Breeding list */
 #breedinglist
 {
